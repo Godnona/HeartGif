@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.loading-container {
+    text-align: center;
+}
+
+.loading-gif {
+    width: 100px; /* Thay đổi kích thước tùy thuộc vào kích thước của GIF */
+    height: auto;
+}
